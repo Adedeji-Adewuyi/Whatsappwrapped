@@ -134,7 +134,7 @@ export default function Modal({ setModal, analysis }: { setModal: (modal: Boolea
                             <FiDownload className="text-xl md:text-3xl text-[#79B791]" />
                             <span className="text-sm md:text-2xl">Download</span>
                         </button>
-                        <a href="https://x.com/waynethefuture"></a>
+                        <a href="https://x.com/waynethefuture/status/2051678947994177665"></a>
                         <button
                             onClick={() => {
                                 posthog.capture("dashboard_X_quote_clicked")
